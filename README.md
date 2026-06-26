@@ -1,22 +1,17 @@
 <p align="center">
-<img src="https://github.com/robovisioneer/robovisioneer/blob/main/Christian_Wiegel_Banner.jpg" align= alt="Banner" width="700" height="230"/></p>
 
-<h1 align="center">Hy 👋, herzlich willkommen auf meiner Seite!</h1>
+<h1 align="center">Hy 👋, herzlich willkommen zum "Hallo Welt!" des AI Engineer 2026 Kurses</h1>
 
 <p align="left">
-Ich bin ein Mechatronik-Ingenieur, der sich auf industrielle Bildverarbeitung und Robotik spezialisert hat.
+Amfang des Jahres habe ich den AI Engineer Kurs 2026 auf Udemy absolviert. Die beiliegende Python-Datei ist quasi das "Hallo Welt!" dieses Kurses. Man kann eine Frage zur Datei a.pdf stellen, die im selben Ordner abgespeichert sein muss.
 </p>
 
 <p align="left">
-Anfang 2026 habe ich in Form von ein paar Programmen ein einigen Ideen realisiert, die ich schon immer in die Tat umsetzen wollte.
+Die Python-Datei laeuft am besten unter Python 3.12.
 </p>
 
 <p align="left">
-Diese Programme zu verbessern oder als Inspiration zu nutzen, ist ausdruecklich erwuenscht!
-</p>
-
-<p align="left">
-Ich habe nun auch so programmiert, wie es spaetestens seit den 2020er Jahren standard ist: K.I.-gestuetzt. Es ist schon ein bisschen verrueckt: Man hat nicht nur das Gefuehl, Bill Gates wuerde einem beim Coden ueber die Schulter schauen, man scheint von ihm auch noch Tipps zu bekommen, die meistens mit dem Drücken der Tab-Taste komplett uebernommen werden koennen. Den Programmierer ersetzen kann das Ganze (noch) nicht. Wir sind noch weit davon entfernt eine App zu beschreiben und sie von der K.I. ohne menschliche Hilfe erstellen zu lassen. Man kommt nicht darum herum, die Basics zu lernen. Ohne zu wissen, was ein Datentyp oder objektorientierte Programmierung ist, wuerde ich auch mit der K.I. nicht weit kommen. Wir sollten vor der neuen Technologie keine Angst haben, sondern sie als Chance sehen. Ich finde es gut, dass mir die K.I. auf dem sich schnell veraendernden immer komplexer werdenden Gebiet der Programmierung unter die Arbeit greift.
+Zwischen den geschweiften Klammern muss ein Key eingegeben werden, der bei Open-AI zu erwerben ist.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,13 +19,4 @@ Ich habe nun auch so programmiert, wie es spaetestens seit den 2020er Jahren sta
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-</a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-</a>
-<a href="https://pointclouds.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/robovisioneer/AbstractPointClouds/blob/main/logo.png" alt="pcl" width="126" height="40"/>
-</a>
 </p>
